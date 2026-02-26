@@ -30,5 +30,5 @@ Throughout this semester, I will regularly upload everything I learn — includi
 - Git
 - GitHub
 
-**Forhad Hossain**  
+**MD.Forhad Hossain Mahamud**  
 **CSE Student at AIUB**  
