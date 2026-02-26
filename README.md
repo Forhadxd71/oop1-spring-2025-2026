@@ -1,4 +1,4 @@
-# oop1-spring-2025-2026
+# OOP1-Spring-2025-2026
 
 ## 📅 Course Information
 
