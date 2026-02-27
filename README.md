@@ -1,7 +1,5 @@
 # OOP1-Spring-2025-2026
 
-<<<<<<< HEAD
-
 ## 📅 Course Information
 
 - 🎓 University: American International University-Bangladesh (AIUB)
@@ -34,5 +32,4 @@ Throughout this semester, I will regularly upload everything I learn — includi
 
 **MD.Forhad Hossain Mahamud**  
 **CSE Student at AIUB**  
-=======
->>>>>>> a6667cd755eab2817fb163a9a8dc27b908211ce0
+
