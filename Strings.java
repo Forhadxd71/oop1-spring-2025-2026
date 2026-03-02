@@ -23,20 +23,20 @@ public class Strings {
     String lower = str1.toLowerCase();
     System.out.println("LowerCase: "+ lower);
     //  Trim
-        String stringWithSpaces = " Trim me! ";
-        String trimmedString = stringWithSpaces.trim();
-        //String trimmedString = str2.trim();
-        System.out.println("Trimmed String: '" + trimmedString + "'");
-        // Boolean checks
-        boolean startsWithHello = str1.startsWith("Hello");
-        boolean endsWithProgramming = str2.endsWith("World");
-        System.out.println("str1 starts with 'Hello': " + startsWithHello);
-        System.out.println("str2 ends with 'World': " + endsWithProgramming);
-        // Character at index
-        char charAtIndex5 = str1.charAt(5);
-        System.out.println("Character at index 5 of str1: " + charAtIndex5);
-        // Index of substring
-        int indexOfJava = str1.indexOf("World");
-        System.out.println("Index of 'Java' in str1: " + indexOfJava);
+    String stringWithSpaces = " Trim me! ";
+    String trimmedString = stringWithSpaces.trim();
+    //String trimmedString = str2.trim();
+    System.out.println("Trimmed String: '" + trimmedString + "'");
+    // Boolean checks
+    boolean startsWithHello = str1.startsWith("Hello");
+    boolean endsWithProgramming = str2.endsWith("World");
+    System.out.println("str1 starts with 'Hello': " + startsWithHello);
+    System.out.println("str2 ends with 'World': " + endsWithProgramming);
+    // Character at index
+    char charAtIndex5 = str1.charAt(5);
+    System.out.println("Character at index 5 of str1: " + charAtIndex5);
+    // Index of substring
+    int indexOfJava = str1.indexOf("World");
+    System.out.println("Index of 'Java' in str1: " + indexOfJava);
     }
 }
