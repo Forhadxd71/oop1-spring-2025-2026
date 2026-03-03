@@ -40,3 +40,4 @@ public class Strings {
     System.out.println("Index of 'Java' in str1: " + indexOfJava);
     }
 }
+ 
