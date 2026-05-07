@@ -2,7 +2,7 @@
 
 import java.awt.Point;
 
-public class TypesDifferences {
+public class TypesDifference {
     public static void main(String[] args) {
         byte x = 1;
         byte y = x;
